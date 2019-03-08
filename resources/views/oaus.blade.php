@@ -70,7 +70,7 @@ html, body {
 
 <div class="content">
 <div class="title m-b-md">
-AOUS Alpha, Martin,Manel ,Didou
+OAUS Alpha, Martin,Manel ,Didou
 </div>
 </div>
 </div>
