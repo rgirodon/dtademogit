@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    "Adeus" en portugais
+                    Adeus en portugais
                 </div>
             </div>
         </div>
