@@ -21,7 +21,7 @@ Route::get('/', function () {
         return view('adios');
  });
 
-        Route::get('/adeus', function () {
-            return view('adeus');
-        });
+Route::get('/adeus', function () {
+    return view('adeus');
+});
             
