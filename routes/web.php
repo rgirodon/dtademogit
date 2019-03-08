@@ -17,9 +17,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
- Route::get('/adios', function () {
+Route::get('/adios', function () {
         return view('adios');
  });
 Route::get('/oaus', function () {
     return view('oaus');
+});
+
+Route::get('/ciao', function () {
+        return view('ciao');
 });
