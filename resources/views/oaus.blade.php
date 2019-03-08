@@ -70,7 +70,7 @@ html, body {
 
 <div class="content">
 <div class="title m-b-md">
-OAUS Alpha, Martin,Manel ,Didou
+OAUS DTA ( Alpha, Martin,Manel ,Didou )
 </div>
 </div>
 </div>
