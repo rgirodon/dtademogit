@@ -17,3 +17,7 @@ Route::get('/', function () {
 Route::get('adios', function () {
     return view('adios');
 });
+
+Route::get('/oaus', function () {
+    return view('oaus');
+});
