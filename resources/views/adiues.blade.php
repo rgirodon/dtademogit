@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dta demo git
+                    Adieus DTAA
                 </div>
             </div>
         </div>
